@@ -1,0 +1,1 @@
+C:\Users\kurt_\Desktop\rust\1_primitives\primitives\target\debug\primitives.exe: C:\Users\kurt_\Desktop\rust\1_primitives\primitives\src\arrays.rs C:\Users\kurt_\Desktop\rust\1_primitives\primitives\src\literals_operators.rs C:\Users\kurt_\Desktop\rust\1_primitives\primitives\src\main.rs C:\Users\kurt_\Desktop\rust\1_primitives\primitives\src\tuples.rs
