@@ -1,0 +1,1 @@
+C:\Users\kurt_\Desktop\rust\2_customtypes\customtypes\target\debug\customtypes.exe: C:\Users\kurt_\Desktop\rust\2_customtypes\customtypes\src\main.rs C:\Users\kurt_\Desktop\rust\2_customtypes\customtypes\src\structures.rs
